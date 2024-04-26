@@ -61,7 +61,7 @@ class HalamanDua extends StatelessWidget {
               ),
               Container(
                 child: Text(
-                  'Apple',
+                  'Alpukat',
                   style: TextStyle(
                     fontSize: 32,
                     fontWeight: FontWeight.w600,
@@ -76,7 +76,7 @@ class HalamanDua extends StatelessWidget {
                 width: 340,
                 height: 285,
                 child: Image.asset(
-                  'images/apple.png',
+                  'images/alpukat.png',
                   fit: BoxFit.cover,
                 ),
               ),
