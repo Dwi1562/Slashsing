@@ -1,4 +1,4 @@
-# slashsing
+# bruhh fruits
 
 A new Flutter project.
 
